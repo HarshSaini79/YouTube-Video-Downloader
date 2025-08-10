@@ -22,12 +22,7 @@ A simple and efficient YouTube Video Downloader built with Python that allows do
 
 ## 🛠️ Technology Used
 - Python 3  
-- pytube library  
-
----
-
-## 📸 Screenshot
-*(Add your screenshot here for a professional look — you can take it after running the program once.)*  
+- pytube library   
 
 ---
 
